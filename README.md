@@ -1,5 +1,7 @@
 # This is a [Next.js](https://nextjs.org/) project bootstrapped with [`BULMA CSS`](http://bulma.io/).
 
+ Run `npx create-next-app -e https://github.com/SkSumit/bulma-next`
+
 ## Getting Started
 
 First, run the development server:
